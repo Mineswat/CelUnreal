@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Materials/M_BasicNPR.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Materials/Postprocess/M_AnimeShader.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Scenarios/L_Night.umap",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Link/MI_Link.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Materials/MI_Yellow.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Materials/M_CelAnimeV2.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/L_Test.umap",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/Materials/MI_Haku1.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/Materials/MI_Haku2.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Materials/MF_CelShader.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/Materials/Textures/untitled_M_Haku_BaseColor_1001.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Materials/MI_Green.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Link/SM_Link6.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Link/Tink5.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/TestVertex.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/Materials/M_Vertex.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/HakuFace.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Link/MI_Link1.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/Materials/MI_HakuColorTest.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/Materials/Textures/ColorMask.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Link/Haku6.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/Materials/M_RoundNormals.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Link/Textures/untitled_M_Haku_BaseColor.uasset",
+				"G:/My Drive/Personal Projects/Anime/AnimeShading/Content/Anime/Characters/Haku/Materials/MI_HakuColor.uasset",
+				"C:/Users/denze/OneDrive/Documents/Unreal Projects/Anime/AnimeShading/Content/Anime/Materials/M_CelAnimeV2.uasset",
+				"C:/Users/denze/OneDrive/Documents/Unreal Projects/Anime/AnimeShading/Content/Anime/Materials/MF_CelShader.uasset",
+				"C:/Users/denze/OneDrive/Documents/Unreal Projects/Anime/AnimeShading/Content/Materials/Denzel/DenzelMaterial.uasset",
+				"C:/Users/denze/OneDrive/Documents/Unreal Projects/Anime/AnimeShading/Content/Materials/Denzel/DenzelMaterial3.uasset"
+			]
+		}
+	]
+}
